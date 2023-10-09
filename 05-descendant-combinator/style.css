@@ -3,3 +3,19 @@
     color: red;
     text-align: center;
 }
+
+#parent {
+    color: red;
+  }
+  
+  .child {
+    color: blue;
+  }
+
+  .alert {
+    color: red;
+  }
+  
+  .warning {
+    color: yellow;
+  }

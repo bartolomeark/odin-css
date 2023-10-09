@@ -1,0 +1,29 @@
+p{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para{
+    font-size: x-large;
+}
+.small-para{
+    font-size: smaller;
+}
+
+button{
+    font-size: medium;
+    border:  1px solid black;
+}
+#confirm-button{
+    font-weight: bold;
+    background-color: green;
+    color: white;
+      
+}
+
+div{
+    font-weight: 100;
+}
+.text-child{
+    font-size: small;
+    font-weight: bold;
+}
